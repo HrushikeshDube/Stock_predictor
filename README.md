@@ -15,5 +15,5 @@ This program features a graphical user interface that connects to a custom serve
 - Note: after cloning the repo onto weberkcudafac, the following command needs executed<code>pip install -r requirements.txt</code>
 - To execute: enter the terminal and input <code>python3 server.py</code>
 - To kill: enter <code>ctrl+c</code>
-## Authors
-- Jordan Davis and Ryan Harris
+
+
